@@ -1,0 +1,10 @@
+w
+2,4,4,7
+b,King,0,7
+b,pawn,7,0
+w,King,0,6
+w,rook,2,4
+w,rook,0,3
+w,bishop,3,3
+w,knight,4,4
+b,pawn,7,7
